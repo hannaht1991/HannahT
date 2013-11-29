@@ -1,0 +1,37 @@
+body{
+background-color: rgba(0, 25, 67, 0.9);
+}
+header {
+	border-bottom: 5px dotted #66FFFF;
+}
+h1 {
+	font-weight: bold;
+	font-family: sans-serif;
+	background-position: 0 0;
+	color: rgba(250,50,220,1);
+	outline-color: black;
+	font-size: 90px;
+	padding: 0px 0px 0px 40px;
+	outline-style: inherit;
+	outline-width: 1px;
+	text-shadow: 2px 2px #66FFFF;
+	text-align: left;
+	border-top: 5px dotted #66FFFF;
+}
+img {
+	margin:0px 0px 0px 0px;
+	border: 2px solid white;
+	border-radius: 2px;
+}
+p {
+	font-size: 30px;
+	font-family: sans-serif;
+	text-align: justify;
+	padding: 0px 20px 0px 20px;
+	color: #66FFFF;
+}
+span {
+	font-style: italic;
+	font-size: 40px;
+	padding-right: 25px; 
+}
